@@ -1,0 +1,2 @@
+# Amrit-ai
+Conscious ai 
